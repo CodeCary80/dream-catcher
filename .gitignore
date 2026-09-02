@@ -1,4 +1,7 @@
-logs
-*.log
-mode_modules
+node_modules/
 .env
+.DS_Store
+**/.DS_Store
+dreams.db
+logs/
+*.log
