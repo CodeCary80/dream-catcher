@@ -22,13 +22,3 @@ A full-stack dream journal that stores dream entries and generates AI-powered in
 - Docker
 - Render
 
-## Environment Variables
-
-Create a `.env` file:
-
-```env
-DATABASE_URL=your_postgresql_connection_string
-OPENAI_API_KEY=your_openai_api_key
-OPENAI_MODEL=gpt-4o-mini
-PORT=3001
-NODE_ENV=production
